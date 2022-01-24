@@ -1,0 +1,50 @@
+body{
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  background-color: black;
+}
+#body1{
+  background-color: grey;
+  height: 650px;
+  overflow-x:hidden;
+  overflow-y:visible;
+}
+#messagecolor{
+  background-color: white;
+  border-radius: 20px;
+  padding: 6px;
+  word-wrap: break-word
+}
+#message-form{
+  position: relative;
+  width: 100%;
+  height: 50px;
+  background-color: grey;
+}
+#message-input{
+  position:relative;
+  border: none;
+  border-radius: 6px;
+  padding: 4px;
+  background-color: rgb(231,137,255);
+  height: 30px;
+  width: 500px;
+  left: 2%;
+  font-size: 15px;
+}
+#message-btn{
+  position: relative;
+  border: none;
+  border-radius: 6px;
+  padding: 4px;
+  background-color: rgb(119,255,169);
+  color: white;
+  width: 100px;
+  height: 40px;
+  left: 2%;
+  font-size: 15px;
+}
+#timething{
+  font-size: 10px;
+}
