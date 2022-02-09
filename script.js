@@ -4,13 +4,14 @@ const a = prompt("Enter your name: ");
 
 
     const firebaseConfig = {
-        apiKey: "AIzaSyCd-fxdY_uYnpZaCD6YGJH0SA67R9G5c5U",
-        authDomain: "three-91e61.firebaseapp.com",
-        databaseURL: "https://three-91e61-default-rtdb.asia-southeast1.firebasedatabase.app",
-        projectId: "three-91e61",
-        storageBucket: "three-91e61.appspot.com",
-        messagingSenderId: "1057079527103",
-        appId: "1:1057079527103:web:33fc32778464d7939f280a"
+        apiKey: "AIzaSyCL8pUOlAL8i-gyWFW6jhjd2wYqyiQUKZA",
+  authDomain: "twoo-77302.firebaseapp.com",
+  databaseURL: "https://twoo-77302-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "twoo-77302",
+  storageBucket: "twoo-77302.appspot.com",
+  messagingSenderId: "135447477359",
+  appId: "1:135447477359:web:8acc4c56ab1e7714c4e19a",
+  measurementId: "G-WKRKWCHRWH"
     };
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
